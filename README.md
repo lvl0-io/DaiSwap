@@ -1,7 +1,8 @@
-# 🚀 DaiSwap: Your Gateway to DeFi!
+# DaiSwap: Your Gateway to DeFi! 🚀 
 
 Welcome to DaiSwap, the ultimate smart contract for flipping DAI into WETH with the magic of Uniswap V3! 🌟
-Features at a Glance ✨
+
+## Features at a Glance ✨
 
 - Effortless DAI-WETH Swaps: Dive into the DeFi ocean with just a click!
 - Optimized for Efficiency: Why wait? Get the best rates, fast.

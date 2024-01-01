@@ -17,8 +17,6 @@ contract DaiSwap {
     function swapExactInputSingle(
         uint256 amountIn
     ) external returns (uint256 amountOut) {
-        // msg.sender must approve this contract
-
         TransferHelper.safeTransferFrom(
             DAI,
             msg.sender,
